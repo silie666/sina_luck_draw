@@ -1,0 +1,130 @@
+# github.com/Comdex/imgo v0.0.0-20200213094239-bb8d436f1e5a
+## explicit
+github.com/Comdex/imgo
+# github.com/PuerkitoBio/goquery v1.6.1
+## explicit
+github.com/PuerkitoBio/goquery
+# github.com/andybalholm/cascadia v1.1.0
+github.com/andybalholm/cascadia
+# github.com/antchfx/htmlquery v1.2.3
+## explicit
+github.com/antchfx/htmlquery
+# github.com/antchfx/xmlquery v1.3.6
+## explicit
+github.com/antchfx/xmlquery
+# github.com/antchfx/xpath v1.1.10
+github.com/antchfx/xpath
+# github.com/bitly/go-simplejson v0.5.0
+## explicit
+github.com/bitly/go-simplejson
+# github.com/blang/semver v3.5.1+incompatible
+github.com/blang/semver
+# github.com/go-sql-driver/mysql v1.5.0
+github.com/go-sql-driver/mysql
+# github.com/gobwas/glob v0.2.3
+## explicit
+github.com/gobwas/glob
+github.com/gobwas/glob/compiler
+github.com/gobwas/glob/match
+github.com/gobwas/glob/syntax
+github.com/gobwas/glob/syntax/ast
+github.com/gobwas/glob/syntax/lexer
+github.com/gobwas/glob/util/runes
+github.com/gobwas/glob/util/strings
+# github.com/gocolly/colly v1.2.0
+## explicit
+github.com/gocolly/colly
+github.com/gocolly/colly/debug
+github.com/gocolly/colly/storage
+# github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e
+github.com/golang/groupcache/lru
+# github.com/golang/protobuf v1.3.1
+github.com/golang/protobuf/proto
+# github.com/gomodule/redigo v1.8.4
+## explicit
+github.com/gomodule/redigo/redis
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.1.2
+github.com/jinzhu/now
+# github.com/kennygrant/sanitize v1.2.4
+## explicit
+github.com/kennygrant/sanitize
+# github.com/lestrrat-go/file-rotatelogs v2.4.0+incompatible
+## explicit
+github.com/lestrrat-go/file-rotatelogs
+github.com/lestrrat-go/file-rotatelogs/internal/option
+# github.com/lestrrat-go/strftime v1.0.4
+## explicit
+github.com/lestrrat-go/strftime
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5
+## explicit
+github.com/rifflock/lfshook
+# github.com/robfig/cron/v3 v3.0.1
+## explicit
+github.com/robfig/cron/v3
+# github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca
+## explicit
+github.com/saintfish/chardet
+# github.com/sirupsen/logrus v1.8.1
+## explicit
+github.com/sirupsen/logrus
+# github.com/tebeka/selenium v0.9.9
+## explicit
+github.com/tebeka/selenium
+github.com/tebeka/selenium/chrome
+github.com/tebeka/selenium/firefox
+github.com/tebeka/selenium/internal/zip
+github.com/tebeka/selenium/log
+# github.com/temoto/robotstxt v1.1.2
+## explicit
+github.com/temoto/robotstxt
+# golang.org/x/net v0.0.0-20200813134508-3edf25e44fcc
+golang.org/x/net/context
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/html/charset
+# golang.org/x/sys v0.0.0-20200323222414-85ca7c5b95cd
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.3.2
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/htmlindex
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/japanese
+golang.org/x/text/encoding/korean
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/encoding/traditionalchinese
+golang.org/x/text/encoding/unicode
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/transform
+# google.golang.org/appengine v1.6.1
+google.golang.org/appengine/internal
+google.golang.org/appengine/internal/base
+google.golang.org/appengine/internal/datastore
+google.golang.org/appengine/internal/log
+google.golang.org/appengine/internal/remote_api
+google.golang.org/appengine/internal/urlfetch
+google.golang.org/appengine/urlfetch
+# gorm.io/driver/mysql v1.0.5
+## explicit
+gorm.io/driver/mysql
+# gorm.io/gorm v1.21.8
+## explicit
+gorm.io/gorm
+gorm.io/gorm/callbacks
+gorm.io/gorm/clause
+gorm.io/gorm/logger
+gorm.io/gorm/migrator
+gorm.io/gorm/schema
+gorm.io/gorm/utils
