@@ -13,7 +13,7 @@ func GetSinaUrl() map[string]interface{} {
 	// urlConfig["LUCKING_SEARCH_ZHUANFA"] = "https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D转发抽奖&page_type=searchall" //综合排序关键词2
 	// urlConfig["LUCKING_SEARCH_XIANGQING"] = "https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D1%26q%3D抽奖详情&page_type=searchall" //综合排序关键词3
 	
-	urlConfig["LUCKING_SEARCH"] = "https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D61%26q%3D@微博抽奖平台&page_type=searchall"  //实时排序关键词1
+	urlConfig["LUCKING_SEARCH"] = "https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D61%26q%3D@微博抽奖平台&page_type=searchall"  //实时排序关键词1 
         urlConfig["LUCKING_SEARCH_ZHUANFA"] = "https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D61%26q%3D转发抽奖&page_type=searchall" //实时排序关键词2
         urlConfig["LUCKING_SEARCH_XIANGQING"] = "https://m.weibo.cn/api/container/getIndex?containerid=100103type%3D61%26q%3D抽奖详情&page_type=searchall" //实时排序关键词3
 	
